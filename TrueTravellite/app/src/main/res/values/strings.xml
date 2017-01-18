@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Travellite</string>
+    <string name="edit_message">Name your Trip and Get Started!</string>
+    <string name="button_send">Send</string>
+    <string name="edit_location">Where are you going?</string>
+    <string name="edit_travel">Acommodations</string>
+    <string name="Departure">Departure</string>
+<string-array name="travel_type">
+    <item>Plane</item>
+    <item>Train</item>
+    <item>Bus</item>
+    <item>Car</item>
+</string-array>
+    <string-array name="Accommodations_array">
+        <item>Hotel</item>
+        <item>Hostel</item>
+        <item>Air BnB</item>
+        <item>Time Share</item>
+        <item>Camping</item>
+    </string-array>
+</resources>
